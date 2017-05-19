@@ -1,0 +1,1 @@
+This repository is intended to document my solutions to the math challenges posed on https://projecteuler.net/
